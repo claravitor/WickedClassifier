@@ -15,3 +15,7 @@ struct WickedClassifierApp: App {
         }
     }
 }
+
+#Preview{
+    ListeningView()
+}

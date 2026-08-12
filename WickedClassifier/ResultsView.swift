@@ -7,7 +7,10 @@
 
 import SwiftUI
 
-struct ResultView: View {
+struct ResultsView: View {
+    // 1. Conexão Binding para voltar à ListeningView
+    @Binding var isPresented: Bool
+    let audiourl: URL?
 
     let backgroundColor = Color.pinkbackground
 
@@ -36,8 +39,7 @@ struct ResultView: View {
                         .padding(.vertical, 8)
 
                     // MARK: - 3. Imagem do Resultado
-                    // Troque "wicked_image" pelo nome do seu Asset de imagem no Xcode
-                    Image("clara")
+                    Image("popular2")
                         .resizable()
                         .aspectRatio(contentMode: .fill)
                         .frame(height: 220)
@@ -45,21 +47,21 @@ struct ResultView: View {
                         .clipShape(RoundedRectangle(cornerRadius: 20))
                         .clipped()
 
-                    // MARK: - 4. Card de Resultado (GroupBox personalizado)
-                    ResultCardView {
-                        print("Ação: Tentar Novamente acionada!")
+                    // MARK: - 4. Card de Resultado
+                    ResultsCardView {
+                        isPresented = false // Altera a navegação para fechar e voltar
                     }
                     .padding(.top, 8)
 
                 }
                 .padding(.vertical, 20)
-
                 .padding(.horizontal, 18)
             }
         }
     }
 }
 
+// MARK: - Card Componente
 struct ResultsCardView: View {
     var title: String = "Popular"
     var description: String = "O modelo prevê que essa musica é a mais provável de estar tocando"
@@ -72,7 +74,7 @@ struct ResultsCardView: View {
             VStack(spacing: 16) {
                 Text(title)
                     .font(.system(size: 32, weight: .bold))
-                    .foregroundColor(Color.black)
+                    .foregroundColor(Color.pinktext)
 
                 Text(description)
                     .font(.system(size: 17, weight: .regular, design: .serif))
@@ -83,7 +85,7 @@ struct ResultsCardView: View {
 
                 Text(percentage)
                     .font(.system(size: 44, weight: .bold))
-                    .foregroundColor(Color.black)
+                    .foregroundColor(Color.pinktext)
 
                 Button(action: {
                     onRetry?()
@@ -93,7 +95,7 @@ struct ResultsCardView: View {
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 16)
-                        .background(Color.black)
+                        .background(Color.pinkbutton)
                         .clipShape(Capsule())
                 }
                 .padding(.top, 4)
@@ -103,20 +105,7 @@ struct ResultsCardView: View {
     }
 }
 
-struct cardGroupBoxStyle: GroupBoxStyle {
-    func makeBody(configuration: Configuration) -> some View {
-        VStack {
-            configuration.content
-        }
-        .padding(.vertical, 28)
-        .padding(.horizontal, 20)
-        .frame(maxWidth: .infinity)
-        .background(Color.cardbackground)
-        .cornerRadius(28)
-        .shadow(color: Color.black.opacity(0.08), radius: 10, x: 0, y: 4)
-    }
-}
-
+// MARK: - Preview
 #Preview {
-    ResultView()
+    ResultsView(isPresented: .constant(true), audiourl: nil)
 }

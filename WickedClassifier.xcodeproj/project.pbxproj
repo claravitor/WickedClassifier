@@ -11,6 +11,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		9B2137BD302C9EEB00A1A5B2 /* ViewModels */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
 		9BFF2B583029ED5200F2BFE8 /* WickedClassifier */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = WickedClassifier;
@@ -34,6 +39,7 @@
 			children = (
 				9BFF2B583029ED5200F2BFE8 /* WickedClassifier */,
 				9BFF2B573029ED5200F2BFE8 /* Products */,
+				9B2137BD302C9EEB00A1A5B2 /* ViewModels */,
 			);
 			sourceTree = "<group>";
 		};
@@ -61,6 +67,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				9B2137BD302C9EEB00A1A5B2 /* ViewModels */,
 				9BFF2B583029ED5200F2BFE8 /* WickedClassifier */,
 			);
 			name = WickedClassifier;
@@ -256,6 +263,7 @@
 				DEVELOPMENT_TEAM = 93786D8X6Q;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Precisamos do uso do Microfone para identificar as músicas de Wicked";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -289,6 +297,7 @@
 				DEVELOPMENT_TEAM = 93786D8X6Q;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Precisamos do uso do Microfone para identificar as músicas de Wicked";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
