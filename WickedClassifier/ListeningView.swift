@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  WickedClassifier
-//
-//  Created by Clara on 10/08/26.
-//
-
 import SwiftUI
 
 struct ListeningView: View {
