@@ -1,0 +1,3724 @@
+{
+  "activityEntities" : [
+    "trainingFinished",
+    [
+      {
+        "createdDate" : "2026-08-11T11:29:07Z",
+        "event" : "trainingFinished",
+        "id" : "BBCBFFBB-3F38-499C-BDE8-6E47C657F115",
+        "subtitle" : "Model converged at 16 iterations",
+        "title" : "Training Completed"
+      }
+    ],
+    "experimentCreated",
+    [
+      {
+        "createdDate" : "2026-08-11T11:29:00Z",
+        "event" : "experimentCreated",
+        "id" : "3C05659F-BBA8-4D8A-B67D-FDA50FB1967E",
+        "subtitle" : "WickedClassifier 4",
+        "title" : "Model Source Created"
+      }
+    ],
+    "trainingDataAdded",
+    [
+      {
+        "createdDate" : "2026-08-11T11:29:04Z",
+        "event" : "trainingDataAdded",
+        "id" : "A9F80E88-3595-4C9F-98C7-D0E80B1A278D",
+        "subtitle" : "WickedClassifier",
+        "title" : "Training Data Added"
+      }
+    ],
+    "trainingStarted",
+    [
+      {
+        "createdDate" : "2026-08-11T11:29:05Z",
+        "event" : "trainingStarted",
+        "id" : "3E6A12DF-1621-4E00-9B15-80DDEDC06B75",
+        "subtitle" : "25 iterations",
+        "title" : "Training Started"
+      }
+    ]
+  ],
+  "contentDataResult" : {
+    "createdDate" : "2026-08-11T11:29:04Z"
+  },
+  "createdDate" : "2026-08-11T11:29:00Z",
+  "evaluationContainerEntity" : {
+    "createdDate" : "2026-08-11T11:29:07Z",
+    "evaluationEntities" : [
+      {
+        "analysedDataType" : "none",
+        "createdDate" : "2026-08-11T11:29:07Z",
+        "dataResult" : {
+
+        },
+        "id" : "b49530b2-0541-45da-833d-1be6ff539cbc"
+      }
+    ],
+    "id" : "c6031f74-fe28-4618-bfc9-83fd05c9ac0c",
+    "modifiedDate" : "2026-08-11T11:29:07Z",
+    "previewType" : "soundClassifier",
+    "testingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-08-11T11:29:00Z",
+      "dataResult" : {
+        "createdDate" : "2026-08-11T11:29:04Z"
+      },
+      "id" : "19c4f710-e795-4247-a8f1-b90830b5b1ad"
+    },
+    "trainingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-08-11T11:29:00Z",
+      "dataResult" : {
+        "classesCount" : 11,
+        "createdDate" : "2026-08-11T11:29:04Z",
+        "dataAnalysis" : {
+          "classifierAnalysis" : {
+            "details" : [
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-25-43_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-36-50_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-11-26_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-37-04_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-09-58_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-58-19_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-12-28_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-44-47_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-14-49_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-59-35_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%208.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-10-15_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-02-56_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-54-03_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%205.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-07-22_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-42-28_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-45-08_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-42-52_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-53-13_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-12-55_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-24-01_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-30_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-06-13_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-21-53_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-24-50_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-38-26_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-21-26_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-40-20_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-25-19_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-04-20_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-07-43_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%206.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-23-06_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-45-58_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-52-30_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-56_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Avenida%2013%20de%20Maio%202.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-32-54_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%207.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-32-46_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-15-12_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-04-11_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-20-16_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-05-43_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-55-00_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-14-26_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%202.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-39-12_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-00-33_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-13-52_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-35-25_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%204.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-23-25_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-38-28_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%203.m4a",
+              [
+                "no one morns the wicked"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-59-14_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-33-31_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-41-10_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-31-36_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-00_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-23-10_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-32_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-13-50_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2008-55-41_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-13-07_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-58-40_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-34-15_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-23-47_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-30-46_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-57-59_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-49_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-06-39_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-08-29_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-12-08_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-26-12_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-29-39_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-30-05_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-26-56_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-20-50_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-59-22_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-57-29_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-58-28_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-59-24_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-08_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-35-17_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-00-12_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-12-27_1.m4a",
+              [
+                "no good deed"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2008-56-41_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-29-38_1.m4a",
+              [
+                "one short day"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-01-50_1.wav",
+              [
+                "what is this feeling"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-11-04_1.m4a",
+              [
+                "as long as your mine"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-46-37_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-05-38_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-36-29_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-38-32_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-37-07_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-27-48_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-44-40_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-02-58_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-04-47_1.m4a",
+              [
+                "thank goodness"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-39-31_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-32-15_1.wav",
+              [
+                "defying gravity"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-22-27_1.m4a",
+              [
+                "popular"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-26-33_1.wav",
+              [
+                "for good"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2011-01-15_1.m4a",
+              [
+                "dancing throught life"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-43-14_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-43-51_1.m4a",
+              [
+                "the wizard and i"
+              ],
+              "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Avenida%2013%20de%20Maio.m4a",
+              [
+                "no one morns the wicked"
+              ]
+            ],
+            "labelStats" : {
+              "as long as your mine" : 10,
+              "dancing throught life" : 10,
+              "defying gravity" : 10,
+              "for good" : 10,
+              "no good deed" : 10,
+              "no one morns the wicked" : 10,
+              "one short day" : 10,
+              "popular" : 10,
+              "thank goodness" : 10,
+              "the wizard and i" : 10,
+              "what is this feeling" : 10
+            }
+          },
+          "issues" : [
+            {
+              "description" : "11 classes found, including no one morns the wicked, defying gravity, no good deed",
+              "severity" : "debug"
+            },
+            {
+              "description" : "110 sounds found, automatically creating validation set",
+              "severity" : "good"
+            },
+            {
+              "description" : "Smallest class is \"as long as your mine\" with 10 sounds",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Largest class is \"no one morns the wicked\" with 10 sounds",
+              "severity" : "debug"
+            }
+          ],
+          "objectDetectorAnalysis" : {
+            "details" : {
+
+            }
+          },
+          "summary" : {
+            "canUseValidation" : 1,
+            "classCount" : 11,
+            "sampleCount" : 110
+          }
+        },
+        "dataSourceID" : "47492899-2E62-47D4-A39B-1883746A966D",
+        "dataURL" : "file:///Users/mariaclara/Documents/WickedClassifier/",
+        "itemsCount" : 110
+      },
+      "dataSourceID" : "47492899-2E62-47D4-A39B-1883746A966D",
+      "evaluationResult" : {
+        "soundClassifier" : {
+          "accuracy" : 0.8127777777777778,
+          "confusionMatrix" : [
+            {
+              "actual" : "as long as your mine",
+              "count" : 75,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 5,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 1,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 3,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 1,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 5,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 4,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 7,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 12,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 111,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 3,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 4,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 1,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 5,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 3,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 5,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 2,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 8,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 2,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 88,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 1,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 4,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 6,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 3,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 10,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 3,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "for good",
+              "count" : 11,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "for good",
+              "count" : 3,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "for good",
+              "count" : 106,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "for good",
+              "count" : 2,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "for good",
+              "count" : 2,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "for good",
+              "count" : 8,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "for good",
+              "count" : 2,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 4,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 1,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 3,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 72,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 2,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 2,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 4,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 1,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "no one morns the wicked",
+              "count" : 2,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "no one morns the wicked",
+              "count" : 1,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "no one morns the wicked",
+              "count" : 316,
+              "expected" : "no one morns the wicked"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 4,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 1,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 2,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 1,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 3,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 153,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 1,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 10,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 4,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 5,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "popular",
+              "count" : 9,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "popular",
+              "count" : 7,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "popular",
+              "count" : 4,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "popular",
+              "count" : 2,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "popular",
+              "count" : 130,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "popular",
+              "count" : 2,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "popular",
+              "count" : 6,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "popular",
+              "count" : 3,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 11,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 2,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 2,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 4,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 16,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 3,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 158,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 8,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 1,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 16,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 3,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 3,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 2,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 6,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 3,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 5,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 12,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 181,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 7,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 2,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 1,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 1,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 1,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 10,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 2,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 3,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 3,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 73,
+              "expected" : "what is this feeling"
+            }
+          ],
+          "statsByLabel" : {
+            "as long as your mine" : {
+              "count" : 101,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.4716981132075472,
+                  "recall" : 0.7425742574257426
+                }
+              }
+            },
+            "dancing throught life" : {
+              "count" : 146,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.8102189781021898,
+                  "recall" : 0.7602739726027398
+                }
+              }
+            },
+            "defying gravity" : {
+              "count" : 125,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.8712871287128713,
+                  "recall" : 0.704
+                }
+              }
+            },
+            "for good" : {
+              "count" : 134,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.8217054263565892,
+                  "recall" : 0.7910447761194029
+                }
+              }
+            },
+            "no good deed" : {
+              "count" : 89,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.8089887640449438,
+                  "recall" : 0.8089887640449438
+                }
+              }
+            },
+            "no one morns the wicked" : {
+              "count" : 319,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 0.9905956112852664
+                }
+              }
+            },
+            "one short day" : {
+              "count" : 184,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.7727272727272727,
+                  "recall" : 0.8315217391304348
+                }
+              }
+            },
+            "popular" : {
+              "count" : 163,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.8783783783783784,
+                  "recall" : 0.7975460122699386
+                }
+              }
+            },
+            "thank goodness" : {
+              "count" : 205,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.7860696517412935,
+                  "recall" : 0.7707317073170732
+                }
+              }
+            },
+            "the wizard and i" : {
+              "count" : 231,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.776824034334764,
+                  "recall" : 0.7835497835497836
+                }
+              }
+            },
+            "what is this feeling" : {
+              "count" : 103,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.8202247191011236,
+                  "recall" : 0.7087378640776699
+                }
+              }
+            }
+          }
+        }
+      },
+      "id" : "1532a2e3-eb0c-4a96-bc78-e4401e6531d4"
+    },
+    "validationEvaluationEntity" : {
+      "analysedDataType" : "auto",
+      "createdDate" : "2026-08-11T11:29:00Z",
+      "dataResult" : {
+        "createdDate" : "2026-08-11T11:29:04Z"
+      },
+      "evaluationResult" : {
+        "soundClassifier" : {
+          "accuracy" : 0.28861788617886175,
+          "confusionMatrix" : [
+            {
+              "actual" : "as long as your mine",
+              "count" : 1,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 1,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 3,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 1,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "as long as your mine",
+              "count" : 1,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 5,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 1,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 1,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "dancing throught life",
+              "count" : 1,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 1,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 2,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 1,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 25,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 1,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 1,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 4,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 1,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 1,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "defying gravity",
+              "count" : 2,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "for good",
+              "count" : 3,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "for good",
+              "count" : 3,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "for good",
+              "count" : 1,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "for good",
+              "count" : 2,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "for good",
+              "count" : 6,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "for good",
+              "count" : 8,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "for good",
+              "count" : 1,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 2,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 4,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 2,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 6,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "no good deed",
+              "count" : 2,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "no one morns the wicked",
+              "count" : 31,
+              "expected" : "no one morns the wicked"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 2,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 5,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 1,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 2,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 2,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 4,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 4,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "one short day",
+              "count" : 1,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "popular",
+              "count" : 1,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "popular",
+              "count" : 5,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "popular",
+              "count" : 1,
+              "expected" : "defying gravity"
+            },
+            {
+              "actual" : "popular",
+              "count" : 2,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "popular",
+              "count" : 1,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "popular",
+              "count" : 15,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "popular",
+              "count" : 3,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "popular",
+              "count" : 2,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "popular",
+              "count" : 4,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 4,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 3,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 1,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 1,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 6,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 15,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "thank goodness",
+              "count" : 2,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 1,
+              "expected" : "as long as your mine"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 1,
+              "expected" : "for good"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 5,
+              "expected" : "no good deed"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 3,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 6,
+              "expected" : "popular"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 2,
+              "expected" : "thank goodness"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 3,
+              "expected" : "the wizard and i"
+            },
+            {
+              "actual" : "the wizard and i",
+              "count" : 1,
+              "expected" : "what is this feeling"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 1,
+              "expected" : "dancing throught life"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 8,
+              "expected" : "one short day"
+            },
+            {
+              "actual" : "what is this feeling",
+              "count" : 3,
+              "expected" : "thank goodness"
+            }
+          ],
+          "statsByLabel" : {
+            "as long as your mine" : {
+              "count" : 7,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.05555555555555555,
+                  "recall" : 0.14285714285714285
+                }
+              }
+            },
+            "dancing throught life" : {
+              "count" : 8,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.06666666666666667,
+                  "recall" : 0.125
+                }
+              }
+            },
+            "defying gravity" : {
+              "count" : 39,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.14285714285714285,
+                  "recall" : 0.02564102564102564
+                }
+              }
+            },
+            "for good" : {
+              "count" : 24,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0,
+                  "recall" : 0
+                }
+              }
+            },
+            "no good deed" : {
+              "count" : 16,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.16666666666666666,
+                  "recall" : 0.125
+                }
+              }
+            },
+            "no one morns the wicked" : {
+              "count" : 31,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 1
+                }
+              }
+            },
+            "one short day" : {
+              "count" : 21,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.08695652173913043,
+                  "recall" : 0.09523809523809523
+                }
+              }
+            },
+            "popular" : {
+              "count" : 34,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.45454545454545453,
+                  "recall" : 0.4411764705882353
+                }
+              }
+            },
+            "thank goodness" : {
+              "count" : 32,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.38461538461538464,
+                  "recall" : 0.46875
+                }
+              }
+            },
+            "the wizard and i" : {
+              "count" : 22,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.1111111111111111,
+                  "recall" : 0.13636363636363635
+                }
+              }
+            },
+            "what is this feeling" : {
+              "count" : 12,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0,
+                  "recall" : 0
+                }
+              }
+            }
+          }
+        }
+      },
+      "id" : "c2e0a6b4-3850-4746-a1da-b2b962dba94a"
+    }
+  },
+  "evaluationEntity" : {
+    "analysedDataType" : "none",
+    "dataResult" : {
+
+    },
+    "id" : "1610d57a-260e-4006-bb1d-d2c8610d687b"
+  },
+  "evaluationState" : "uninitialized",
+  "id" : "A9FF4185-A86F-45E2-8BE6-6DE0ABA4A427",
+  "modelEntity" : {
+    "createdDate" : "2026-08-11T11:29:00Z",
+    "experimentID" : "A9FF4185-A86F-45E2-8BE6-6DE0ABA4A427",
+    "id" : "3E10EB6C-3F34-461A-88A9-C2F8DAE07EE0",
+    "modelURL" : "Models/WickedClassifier%204.mlmodel",
+    "modifiedDate" : "2026-08-11T11:29:00Z",
+    "title" : "",
+    "version" : "1.0"
+  },
+  "modifiedDate" : "2026-08-11T11:29:07Z",
+  "preferredFilename" : "WickedClassifier 4",
+  "settingEntity" : {
+    "algorithmType" : "maxEnt",
+    "augmentations" : [
+
+    ],
+    "featureNames" : [
+
+    ],
+    "handActionClassifierAugmentations" : [
+
+    ],
+    "handPoseClassifierAugmentations" : [
+
+    ],
+    "harVideoAugmentations" : 0,
+    "iterationCount" : 25,
+    "seedType" : "default",
+    "soundAlgorithmType" : "transferLearning",
+    "soundClassifierMLPLayers" : [
+      2
+    ],
+    "soundClassifierType" : "logisticRegressor",
+    "soundFeatureExtractionType" : "audioFeaturePrint",
+    "soundIsCustomOverlapFactor" : false,
+    "soundOverlapFactor" : 0.5,
+    "soundTimeWindow" : 0.975,
+    "styleTransferAlgorithmType" : "image",
+    "taskType" : "audioClassifier",
+    "transferLearningEmbeddingType" : "dynamic"
+  },
+  "snapshotRole" : {
+    "withoutSnapshots" : 0
+  },
+  "state" : "trained",
+  "title" : "WickedClassifier 4",
+  "trainingEntity" : {
+    "analysedDataType" : "datasource",
+    "checkpointMetrics" : {
+
+    },
+    "dataResult" : {
+      "classesCount" : 11,
+      "createdDate" : "2026-08-11T11:29:04Z",
+      "dataAnalysis" : {
+        "classifierAnalysis" : {
+          "details" : [
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-25-43_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-36-50_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-11-26_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-37-04_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-09-58_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-58-19_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-12-28_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-44-47_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-14-49_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-59-35_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%208.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-10-15_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-02-56_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-54-03_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%205.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-07-22_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-42-28_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-45-08_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-42-52_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-53-13_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-12-55_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-24-01_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-30_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-06-13_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-21-53_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-24-50_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-38-26_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-21-26_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-40-20_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-25-19_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-04-20_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-07-43_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%206.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-23-06_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-45-58_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-52-30_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-56_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Avenida%2013%20de%20Maio%202.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-32-54_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%207.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-32-46_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-15-12_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-04-11_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-20-16_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-05-43_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-55-00_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-14-26_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%202.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-39-12_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-00-33_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-13-52_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-35-25_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%204.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-23-25_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-38-28_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%203.m4a",
+            [
+              "no one morns the wicked"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-59-14_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-33-31_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-41-10_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-31-36_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-00_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-23-10_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-32_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-13-50_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2008-55-41_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-13-07_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-58-40_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-34-15_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-23-47_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-30-46_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-57-59_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-49_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-06-39_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-08-29_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-12-08_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-26-12_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-29-39_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-30-05_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-26-56_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-20-50_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-59-22_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-57-29_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-58-28_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-59-24_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-08_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-35-17_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-00-12_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-12-27_1.m4a",
+            [
+              "no good deed"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2008-56-41_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-29-38_1.m4a",
+            [
+              "one short day"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-01-50_1.wav",
+            [
+              "what is this feeling"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-11-04_1.m4a",
+            [
+              "as long as your mine"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-46-37_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-05-38_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-36-29_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-38-32_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-37-07_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-27-48_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-44-40_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-02-58_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-04-47_1.m4a",
+            [
+              "thank goodness"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-39-31_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-32-15_1.wav",
+            [
+              "defying gravity"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-22-27_1.m4a",
+            [
+              "popular"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-26-33_1.wav",
+            [
+              "for good"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2011-01-15_1.m4a",
+            [
+              "dancing throught life"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-43-14_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-43-51_1.m4a",
+            [
+              "the wizard and i"
+            ],
+            "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Avenida%2013%20de%20Maio.m4a",
+            [
+              "no one morns the wicked"
+            ]
+          ],
+          "labelStats" : {
+            "as long as your mine" : 10,
+            "dancing throught life" : 10,
+            "defying gravity" : 10,
+            "for good" : 10,
+            "no good deed" : 10,
+            "no one morns the wicked" : 10,
+            "one short day" : 10,
+            "popular" : 10,
+            "thank goodness" : 10,
+            "the wizard and i" : 10,
+            "what is this feeling" : 10
+          }
+        },
+        "issues" : [
+          {
+            "description" : "11 classes found, including no one morns the wicked, defying gravity, no good deed",
+            "severity" : "debug"
+          },
+          {
+            "description" : "110 sounds found, automatically creating validation set",
+            "severity" : "good"
+          },
+          {
+            "description" : "Smallest class is \"as long as your mine\" with 10 sounds",
+            "severity" : "debug"
+          },
+          {
+            "description" : "Largest class is \"no one morns the wicked\" with 10 sounds",
+            "severity" : "debug"
+          }
+        ],
+        "objectDetectorAnalysis" : {
+          "details" : {
+
+          }
+        },
+        "summary" : {
+          "canUseValidation" : 1,
+          "classCount" : 11,
+          "sampleCount" : 110
+        }
+      },
+      "dataSourceID" : "47492899-2E62-47D4-A39B-1883746A966D",
+      "dataURL" : "file:///Users/mariaclara/Documents/WickedClassifier/",
+      "itemsCount" : 110
+    },
+    "dataSourceID" : "47492899-2E62-47D4-A39B-1883746A966D",
+    "featureExtractionCheckpointMayBeAvailable" : false,
+    "finishTime" : "2026-08-11T11:29:07Z",
+    "progress" : [
+      {
+        "count" : 0,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 1,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 2,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "scTrainingColumnHeader" : {
+          "elapsedTime" : 0.02625894546508789,
+          "hasValidation" : true,
+          "iterationCount" : 2,
+          "trainingAccuracy" : 0.1922222222222222,
+          "validationAccuracy" : 0.13821138211382114
+        },
+        "tableDone" : false,
+        "tableIndex" : 2
+      },
+      {
+        "count" : 3,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "scTrainingColumnHeader" : {
+          "elapsedTime" : 0.03147101402282715,
+          "hasValidation" : true,
+          "iterationCount" : 3,
+          "trainingAccuracy" : 0.3472222222222222,
+          "validationAccuracy" : 0.25609756097560976
+        },
+        "tableDone" : false,
+        "tableIndex" : 2
+      },
+      {
+        "count" : 4,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "scTrainingColumnHeader" : {
+          "elapsedTime" : 0.04005599021911621,
+          "hasValidation" : true,
+          "iterationCount" : 4,
+          "trainingAccuracy" : 0.44222222222222224,
+          "validationAccuracy" : 0.2886178861788618
+        },
+        "tableDone" : false,
+        "tableIndex" : 2
+      },
+      {
+        "count" : 5,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "scTrainingColumnHeader" : {
+          "elapsedTime" : 0.04868900775909424,
+          "hasValidation" : true,
+          "iterationCount" : 5,
+          "trainingAccuracy" : 0.4888888888888889,
+          "validationAccuracy" : 0.2845528455284553
+        },
+        "tableDone" : false,
+        "tableIndex" : 2
+      },
+      {
+        "count" : 6,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 7,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 8,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 9,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 10,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 1
+      },
+      {
+        "count" : 11,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "scTrainingColumnHeader" : {
+          "elapsedTime" : 0.08304202556610107,
+          "hasValidation" : true,
+          "iterationCount" : 11,
+          "trainingAccuracy" : 0.7077777777777777,
+          "validationAccuracy" : 0.3008130081300813
+        },
+        "tableDone" : false,
+        "tableIndex" : 2
+      },
+      {
+        "count" : 12,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 13,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 15,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 16,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "scTrainingColumnHeader" : {
+          "elapsedTime" : 0.11767494678497314,
+          "hasValidation" : true,
+          "iterationCount" : 16,
+          "trainingAccuracy" : 0.8127777777777778,
+          "validationAccuracy" : 0.2886178861788618
+        },
+        "tableDone" : true,
+        "tableIndex" : 2
+      },
+      {
+        "count" : 22,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 23,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 29,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 30,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 31,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 32,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 33,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 36,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 37,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 38,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 39,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 40,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 43,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 44,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 46,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 49,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 50,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 51,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 55,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 56,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 57,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 62,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 64,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 65,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 66,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 68,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 69,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 71,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 75,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 76,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 77,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 78,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 80,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 82,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 83,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 84,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 85,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 86,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 88,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 90,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 91,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 92,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 93,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 94,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 95,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 96,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 97,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 98,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 99,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "percentComplete" : 0,
+        "tableDone" : true,
+        "tableIndex" : 0
+      }
+    ],
+    "snapshottableCheckpoints" : {
+
+    },
+    "startTime" : "2026-08-11T11:29:05Z",
+    "trainingAccuracy" : 0.8127777777777778,
+    "trainingResults" : {
+      "soundClassifier" : {
+        "accuracy" : 0.8127777777777778,
+        "confusionMatrix" : [
+          {
+            "actual" : "as long as your mine",
+            "count" : 75,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 5,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 1,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 3,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 1,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 5,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 4,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 7,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 12,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 111,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 3,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 4,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 1,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 5,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 3,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 5,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 2,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 8,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 2,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 88,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 1,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 4,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 6,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 3,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 10,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 3,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "for good",
+            "count" : 11,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "for good",
+            "count" : 3,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "for good",
+            "count" : 106,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "for good",
+            "count" : 2,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "for good",
+            "count" : 2,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "for good",
+            "count" : 8,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "for good",
+            "count" : 2,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 4,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 1,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 3,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 72,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 2,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 2,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 4,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 1,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "no one morns the wicked",
+            "count" : 2,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "no one morns the wicked",
+            "count" : 1,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "no one morns the wicked",
+            "count" : 316,
+            "expected" : "no one morns the wicked"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 4,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 1,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 2,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 1,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 3,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 153,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 1,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 10,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 4,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 5,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "popular",
+            "count" : 9,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "popular",
+            "count" : 7,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "popular",
+            "count" : 4,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "popular",
+            "count" : 2,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "popular",
+            "count" : 130,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "popular",
+            "count" : 2,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "popular",
+            "count" : 6,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "popular",
+            "count" : 3,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 11,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 2,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 2,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 4,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 16,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 3,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 158,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 8,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 1,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 16,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 3,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 3,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 2,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 6,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 3,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 5,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 12,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 181,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 7,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 2,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 1,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 1,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 1,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 10,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 2,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 3,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 3,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 73,
+            "expected" : "what is this feeling"
+          }
+        ],
+        "statsByLabel" : {
+          "as long as your mine" : {
+            "count" : 101,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.4716981132075472,
+                "recall" : 0.7425742574257426
+              }
+            }
+          },
+          "dancing throught life" : {
+            "count" : 146,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.8102189781021898,
+                "recall" : 0.7602739726027398
+              }
+            }
+          },
+          "defying gravity" : {
+            "count" : 125,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.8712871287128713,
+                "recall" : 0.704
+              }
+            }
+          },
+          "for good" : {
+            "count" : 134,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.8217054263565892,
+                "recall" : 0.7910447761194029
+              }
+            }
+          },
+          "no good deed" : {
+            "count" : 89,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.8089887640449438,
+                "recall" : 0.8089887640449438
+              }
+            }
+          },
+          "no one morns the wicked" : {
+            "count" : 319,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 0.9905956112852664
+              }
+            }
+          },
+          "one short day" : {
+            "count" : 184,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.7727272727272727,
+                "recall" : 0.8315217391304348
+              }
+            }
+          },
+          "popular" : {
+            "count" : 163,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.8783783783783784,
+                "recall" : 0.7975460122699386
+              }
+            }
+          },
+          "thank goodness" : {
+            "count" : 205,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.7860696517412935,
+                "recall" : 0.7707317073170732
+              }
+            }
+          },
+          "the wizard and i" : {
+            "count" : 231,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.776824034334764,
+                "recall" : 0.7835497835497836
+              }
+            }
+          },
+          "what is this feeling" : {
+            "count" : 103,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.8202247191011236,
+                "recall" : 0.7087378640776699
+              }
+            }
+          }
+        }
+      }
+    },
+    "validationAccuracy" : 0.28861788617886175,
+    "validationResults" : {
+      "soundClassifier" : {
+        "accuracy" : 0.28861788617886175,
+        "confusionMatrix" : [
+          {
+            "actual" : "as long as your mine",
+            "count" : 1,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 1,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 3,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 1,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "as long as your mine",
+            "count" : 1,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 5,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 1,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 1,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "dancing throught life",
+            "count" : 1,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 1,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 2,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 1,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 25,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 1,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 1,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 4,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 1,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 1,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "defying gravity",
+            "count" : 2,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "for good",
+            "count" : 3,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "for good",
+            "count" : 3,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "for good",
+            "count" : 1,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "for good",
+            "count" : 2,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "for good",
+            "count" : 6,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "for good",
+            "count" : 8,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "for good",
+            "count" : 1,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 2,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 4,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 2,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 6,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "no good deed",
+            "count" : 2,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "no one morns the wicked",
+            "count" : 31,
+            "expected" : "no one morns the wicked"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 2,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 5,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 1,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 2,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 2,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 4,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 4,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "one short day",
+            "count" : 1,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "popular",
+            "count" : 1,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "popular",
+            "count" : 5,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "popular",
+            "count" : 1,
+            "expected" : "defying gravity"
+          },
+          {
+            "actual" : "popular",
+            "count" : 2,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "popular",
+            "count" : 1,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "popular",
+            "count" : 15,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "popular",
+            "count" : 3,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "popular",
+            "count" : 2,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "popular",
+            "count" : 4,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 4,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 3,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 1,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 1,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 6,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 15,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "thank goodness",
+            "count" : 2,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 1,
+            "expected" : "as long as your mine"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 1,
+            "expected" : "for good"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 5,
+            "expected" : "no good deed"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 3,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 6,
+            "expected" : "popular"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 2,
+            "expected" : "thank goodness"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 3,
+            "expected" : "the wizard and i"
+          },
+          {
+            "actual" : "the wizard and i",
+            "count" : 1,
+            "expected" : "what is this feeling"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 1,
+            "expected" : "dancing throught life"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 8,
+            "expected" : "one short day"
+          },
+          {
+            "actual" : "what is this feeling",
+            "count" : 3,
+            "expected" : "thank goodness"
+          }
+        ],
+        "statsByLabel" : {
+          "as long as your mine" : {
+            "count" : 7,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.05555555555555555,
+                "recall" : 0.14285714285714285
+              }
+            }
+          },
+          "dancing throught life" : {
+            "count" : 8,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.06666666666666667,
+                "recall" : 0.125
+              }
+            }
+          },
+          "defying gravity" : {
+            "count" : 39,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.14285714285714285,
+                "recall" : 0.02564102564102564
+              }
+            }
+          },
+          "for good" : {
+            "count" : 24,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0,
+                "recall" : 0
+              }
+            }
+          },
+          "no good deed" : {
+            "count" : 16,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.16666666666666666,
+                "recall" : 0.125
+              }
+            }
+          },
+          "no one morns the wicked" : {
+            "count" : 31,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 1
+              }
+            }
+          },
+          "one short day" : {
+            "count" : 21,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.08695652173913043,
+                "recall" : 0.09523809523809523
+              }
+            }
+          },
+          "popular" : {
+            "count" : 34,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.45454545454545453,
+                "recall" : 0.4411764705882353
+              }
+            }
+          },
+          "thank goodness" : {
+            "count" : 32,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.38461538461538464,
+                "recall" : 0.46875
+              }
+            }
+          },
+          "the wizard and i" : {
+            "count" : 22,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.1111111111111111,
+                "recall" : 0.13636363636363635
+              }
+            }
+          },
+          "what is this feeling" : {
+            "count" : 12,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0,
+                "recall" : 0
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "validationEntity" : {
+    "analysedDataType" : "auto",
+    "dataResult" : {
+      "createdDate" : "2026-08-11T11:29:04Z"
+    },
+    "splitOptions" : {
+      "strategy" : {
+        "automatic" : {
+
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

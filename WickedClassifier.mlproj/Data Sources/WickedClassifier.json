@@ -1,0 +1,585 @@
+{
+  "activityEntities" : [
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-08-11T11:28:33Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "FCA47B34-F974-4698-A9BE-20C6987F5786",
+        "subtitle" : "WickedClassifier 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-08-11T11:28:43Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "8CD5D1C2-BBB0-487C-8265-C96C241E6989",
+        "subtitle" : "WickedClassifier 2",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-08-11T11:28:56Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "62615F79-8BA1-417B-9C08-1A46209558F6",
+        "subtitle" : "WickedClassifier 3",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-08-11T11:29:05Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "82A87AB4-B1F1-425A-82BD-89F1EC8C4EFA",
+        "subtitle" : "WickedClassifier 4",
+        "title" : "Used By"
+      }
+    ],
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-08-11T11:28:31Z",
+        "event" : "dataSourceCreated",
+        "id" : "F2D11A6D-44D6-4E37-9E1B-8F4148F2749A",
+        "subtitle" : "WickedClassifier",
+        "title" : "Data Source Created"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-08-11T11:28:33Z",
+        "event" : "dataSourceMetrics",
+        "id" : "E08EC307-18FF-4188-B500-4E39AB238FD0",
+        "subtitle" : "11 Classes, 110 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-08-11T11:28:43Z",
+        "event" : "dataSourceMetrics",
+        "id" : "AF4B3BBE-B2CE-4328-9FFE-793D084D2673",
+        "subtitle" : "11 Classes, 110 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-08-11T11:28:56Z",
+        "event" : "dataSourceMetrics",
+        "id" : "84C3E9AE-3B21-4B98-AE14-AA8C896012DA",
+        "subtitle" : "11 Classes, 110 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-08-11T11:29:05Z",
+        "event" : "dataSourceMetrics",
+        "id" : "1742323C-BA54-4892-9BC0-006F5CCF70F2",
+        "subtitle" : "11 Classes, 110 Items",
+        "title" : "Data Summary"
+      }
+    ]
+  ],
+  "createdDate" : "2026-08-11T11:28:31Z",
+  "dataPathRelativeToProjectURL" : "../../../Documents/WickedClassifier/",
+  "dataResult" : {
+    "classesCount" : 11,
+    "createdDate" : "2026-08-11T11:28:31Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+        "details" : [
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-58-19_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-44-40_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-59-35_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-54-03_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-06-13_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-22-27_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-38-26_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-20-16_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-32_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-00-33_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-23-47_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-59-24_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-32-54_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-37-04_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-31-36_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-10-15_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%205.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-12-08_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%207.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-12-28_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-58-40_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-41-10_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-34-15_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-12-27_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-37-07_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-52-30_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-36-29_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-30_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-36-50_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-39-12_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-25-19_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-08-29_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-01-50_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-14-49_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-43-14_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-04-20_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-21-53_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2011-01-15_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-09-58_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Avenida%2013%20de%20Maio.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-23-10_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-53-13_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-39-31_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-04-11_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-24-50_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-55-00_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2008-55-41_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-07-43_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-13-07_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-30-05_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-38-28_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-15-12_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-43-51_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-14-26_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-23-25_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-30-46_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-08_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%202.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-26-33_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-00-12_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-58-28_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%204.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-21-26_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-13-52_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%203.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2011-02-56_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-02-58_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-40-20_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-35-17_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-05-38_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-11-26_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-12-55_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-24-01_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-32-46_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-42-28_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-26-56_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-46-37_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-41-56_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-25-43_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/one%20short%20day/ScreenRecording_08-09-2026%2020-29-38_1.m4a",
+          [
+            "one short day"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-45-08_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-11-04_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-05-43_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-57-59_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-20-50_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-33-31_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-06-2026%2011-45-58_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-44-47_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2009-23-06_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-38-32_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/as%20long%20as%20your%20mine/ScreenRecording_08-06-2026%2011-13-50_1.m4a",
+          [
+            "as long as your mine"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-00_1.m4a",
+          [
+            "dancing throught life"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/the%20wizard%20and%20i/ScreenRecording_08-09-2026%2023-35-25_1.m4a",
+          [
+            "the wizard and i"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%208.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-07-22_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-29-39_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/for%20good/ScreenRecording_08-06-2026%2008-56-41_1.wav",
+          [
+            "for good"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20good%20deed/ScreenRecording_08-07-2026%2011-06-39_1.m4a",
+          [
+            "no good deed"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Instituto%20Federal%20de%20Educac%CC%A7a%CC%83o,%20Cie%CC%82ncia%20e%20Tecnologia%20do%20Ceara%CC%81%20-%20Fortaleza%206.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/no%20one%20morns%20the%20wicked/Avenida%2013%20de%20Maio%202.m4a",
+          [
+            "no one morns the wicked"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2023-04-47_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-59-14_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/what%20is%20this%20feeling/ScreenRecording_08-06-2026%2010-57-29_1.wav",
+          [
+            "what is this feeling"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-32-15_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-27-48_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/defying%20gravity/ScreenRecording_08-06-2026-08-42-52_1.wav",
+          [
+            "defying gravity"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/thank%20goodness/ScreenRecording_08-09-2026%2022-59-22_1.m4a",
+          [
+            "thank goodness"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/popular/ScreenRecording_08-09-2026%2023-26-12_1.m4a",
+          [
+            "popular"
+          ],
+          "file:///Users/mariaclara/Documents/WickedClassifier/dancing%20throught%20life/ScreenRecording_08-07-2026%2010-55-49_1.m4a",
+          [
+            "dancing throught life"
+          ]
+        ],
+        "labelStats" : {
+          "as long as your mine" : 10,
+          "dancing throught life" : 10,
+          "defying gravity" : 10,
+          "for good" : 10,
+          "no good deed" : 10,
+          "no one morns the wicked" : 10,
+          "one short day" : 10,
+          "popular" : 10,
+          "thank goodness" : 10,
+          "the wizard and i" : 10,
+          "what is this feeling" : 10
+        }
+      },
+      "issues" : [
+        {
+          "description" : "11 classes found, including one short day, thank goodness, defying gravity",
+          "severity" : "debug"
+        },
+        {
+          "description" : "110 sounds found, automatically creating validation set",
+          "severity" : "good"
+        },
+        {
+          "description" : "Smallest class is \"the wizard and i\" with 10 sounds",
+          "severity" : "debug"
+        },
+        {
+          "description" : "Largest class is \"one short day\" with 10 sounds",
+          "severity" : "debug"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "classCount" : 11,
+        "sampleCount" : 110
+      }
+    },
+    "dataSourceID" : "47492899-2E62-47D4-A39B-1883746A966D",
+    "dataURL" : "file:///Users/mariaclara/Documents/WickedClassifier/",
+    "itemsCount" : 110
+  },
+  "dataURL" : "file:///Users/mariaclara/Documents/WickedClassifier/",
+  "experimentIDs" : [
+    "4C6F1060-1678-45E8-88BF-AD10A740FA69",
+    "F60F129B-4F09-4763-A2BA-6E93F93F7C3D",
+    "9B25BD40-3082-4814-ABDF-C17916B879AB",
+    "A9FF4185-A86F-45E2-8BE6-6DE0ABA4A427"
+  ],
+  "id" : "47492899-2E62-47D4-A39B-1883746A966D",
+  "modifiedDate" : "2026-08-11T11:29:05Z",
+  "pathType" : 0,
+  "preferredFilename" : "WickedClassifier",
+  "title" : "WickedClassifier",
+  "version" : "1.0"
+}

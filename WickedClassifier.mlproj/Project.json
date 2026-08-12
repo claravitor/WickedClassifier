@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-08-11T11:28:23Z",
+        "event" : "projectCreated",
+        "id" : "C882269F-6C34-4DEF-8465-D372D6831D02",
+        "subtitle" : "WickedClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Clara",
+  "createdDate" : "2026-08-11T11:28:23Z",
+  "description" : "",
+  "id" : "415609B3-1CC3-42DE-AD47-1656C0D97A8A",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-08-11T11:28:23Z",
+  "projectName" : "WickedClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "audioClassifier",
+  "title" : "Sound Classification",
+  "version" : "1.1"
+}
