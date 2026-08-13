@@ -15,6 +15,9 @@ struct ListeningView: View {
     
     // Instancia a ViewModel do gravador
     @StateObject private var recorderVM = RecorderViewModel()
+    
+    // Estados de fluxo da tela
+    @State private var isLoading: Bool = false
     @State private var navigateToResults: Bool = false
     
     var body: some View {
@@ -68,9 +71,12 @@ struct ListeningView: View {
                             .contentShape(Circle())
                             .onTapGesture {
                                 if recorderVM.isRecording {
-                                    // Para a gravação e força a navegação imediata
+                                    // 1. Ativa a varinha 3D IMEDIATAMENTE
+                                    withAnimation {
+                                        isLoading = true
+                                    }
+                                    // 2. Para a gravação no ViewModel
                                     recorderVM.toggleRecording()
-                                    navigateToResults = true
                                 } else {
                                     recorderVM.toggleRecording()
                                 }
@@ -84,11 +90,15 @@ struct ListeningView: View {
                     }
                 }
                 .scrollIndicators(.hidden)
+                
+                // MARK: - Overlay da Tela de Carregamento (Varinha 3D)
+                if isLoading {
+                    LoadingView()
+                        .transition(.opacity)
+                        .zIndex(1) 
+                }
             }
             // Navegação conectada ao NavigationStack
-//            .navigationDestination(isPresented: $navigateToResults) {
-//                ResultsView(isPresented: $navigateToResults, audiourl: recorderVM.recordedAudioURL)
-//            }
             .navigationDestination(isPresented: $navigateToResults) {
                 ResultsView(
                     isPresented: $navigateToResults,
@@ -96,9 +106,16 @@ struct ListeningView: View {
                     percentageText: recorderVM.confidencePercentage
                 )
             }
+            // Disparado quando a análise do áudio termina
             .onChange(of: recorderVM.recordedAudioURL) { _, newURL in
                 if newURL != nil {
-                    navigateToResults = true
+                    // Espera 1.5s com a varinha girando antes de mostrar o resultado
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {
+                        withAnimation {
+                            isLoading = false // Oculta a varinha
+                            navigateToResults = true // Navega para os resultados
+                        }
+                    }
                 }
             }
         }
