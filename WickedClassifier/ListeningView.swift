@@ -30,7 +30,7 @@ struct ListeningView: View {
                         VStack(spacing: 16) {
                             Text("QUE MÚSICA ESTÁ TOCANDO?")
                                 .font(.system(size: 22, weight: .bold))
-                                .foregroundColor(.black)
+                                .foregroundColor(.greenwave)
                                 .multilineTextAlignment(.center)
                                 .padding()
                             
@@ -86,8 +86,15 @@ struct ListeningView: View {
                 .scrollIndicators(.hidden)
             }
             // Navegação conectada ao NavigationStack
+//            .navigationDestination(isPresented: $navigateToResults) {
+//                ResultsView(isPresented: $navigateToResults, audiourl: recorderVM.recordedAudioURL)
+//            }
             .navigationDestination(isPresented: $navigateToResults) {
-                ResultsView(isPresented: $navigateToResults, audiourl: recorderVM.recordedAudioURL)
+                ResultsView(
+                    isPresented: $navigateToResults,
+                    song: recorderVM.detectedSong,
+                    percentageText: recorderVM.confidencePercentage
+                )
             }
             .onChange(of: recorderVM.recordedAudioURL) { _, newURL in
                 if newURL != nil {

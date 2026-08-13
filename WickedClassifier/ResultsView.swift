@@ -10,7 +10,8 @@ import SwiftUI
 struct ResultsView: View {
     // 1. Conexão Binding para voltar à ListeningView
     @Binding var isPresented: Bool
-    let audiourl: URL?
+    let song: WickedSong
+    let percentageText: String
 
     let backgroundColor = Color.pinkbackground
 
@@ -25,7 +26,7 @@ struct ResultsView: View {
                     // MARK: - 1. Cabeçalho / Título
                     Text("A MÚSICA É...")
                         .font(.system(size: 26, weight: .bold))
-                        .foregroundColor(.black)
+                        .foregroundColor(.pinktext)
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding(.top, 20)
 
@@ -39,7 +40,7 @@ struct ResultsView: View {
                         .padding(.vertical, 8)
 
                     // MARK: - 3. Imagem do Resultado
-                    Image("popular2")
+                    Image(song.imageName)
                         .resizable()
                         .aspectRatio(contentMode: .fill)
                         .frame(height: 220)
@@ -48,9 +49,14 @@ struct ResultsView: View {
                         .clipped()
 
                     // MARK: - 4. Card de Resultado
-                    ResultsCardView {
-                        isPresented = false // Altera a navegação para fechar e voltar
+                    ResultsCardView(
+                     title: song.title,
+                     description: "O modelo prevê que essa música é a mais provável de estar tocando",
+                     percentage: percentageText,
+                     onRetry: {
+                            isPresented = false // Fecha a view e volta para tentar novamente
                     }
+                )
                     .padding(.top, 8)
 
                 }
@@ -63,9 +69,9 @@ struct ResultsView: View {
 
 // MARK: - Card Componente
 struct ResultsCardView: View {
-    var title: String = "Popular"
-    var description: String = "O modelo prevê que essa musica é a mais provável de estar tocando"
-    var percentage: String = "100%"
+    var title: String
+    var description: String 
+    var percentage: String 
     var buttonTitle: String = "Tentar novamente"
     var onRetry: (() -> Void)? = nil
 
@@ -107,5 +113,5 @@ struct ResultsCardView: View {
 
 // MARK: - Preview
 #Preview {
-    ResultsView(isPresented: .constant(true), audiourl: nil)
+    ResultsView(isPresented: .constant(true), song: WickedSong.unknown, percentageText: "100%")
 }
