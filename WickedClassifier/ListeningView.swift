@@ -13,10 +13,8 @@ struct ListeningView: View {
     private let circleBackgroundColor = Color.greencircle
     private let waveColor = Color.greenwave
     
-    // Instancia a ViewModel do gravador
     @StateObject private var recorderVM = RecorderViewModel()
     
-    // Estados de fluxo da tela
     @State private var isLoading: Bool = false
     @State private var navigateToResults: Bool = false
     
@@ -29,7 +27,6 @@ struct ListeningView: View {
                 ScrollView {
                     VStack(spacing: 24) {
                         
-                        // MARK: - Cabeçalho e Descrição
                         VStack(spacing: 16) {
                             Text("QUE MÚSICA ESTÁ TOCANDO?")
                                 .font(.system(size: 22, weight: .bold))
